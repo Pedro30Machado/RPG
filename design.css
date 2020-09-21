@@ -8,7 +8,7 @@ body {background-color: black;}
 /*CABEÇALHO*/
 .cab {
     width: 100%;
-    height: 80%; 
+    height: 70%; 
     float: left; 
     padding: 3% 4%; 
     background-color: #337558;
@@ -59,6 +59,7 @@ body {background-color: black;}
     float: left;
     padding: 1% 2%;
     background-color: #337558;
+    height: 80%;
 }
 .rodape a {
     float: right;
@@ -69,10 +70,10 @@ body {background-color: black;}
     float: right;
 }
 .rodape h2 {
-    padding: 3% 4%;
+    padding: 1% 2%;
 }
 .rodape h3 {
-    padding: 3% 4%;
+    padding: 1% 2%;
     line-height: 2em;
 }
 /* MOBILE FIRST */
