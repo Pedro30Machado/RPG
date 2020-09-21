@@ -1,3 +1,2 @@
 # RPG
- Site oficial pra RPG
-Link pro site: https://pedro30machado.github.io/RPG/
+ Site oficial pra RPG: https://pedro30machado.github.io/RPG/
