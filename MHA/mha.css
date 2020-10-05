@@ -1,0 +1,70 @@
+/*RESET*/
+* {margin:0; padding: 0; font-size: 100%; font-family: 'Open Sans', sans-serif;; font-weight: 300; box-sizing: border-box; border: none; outline: none;}
+img {max-width: 100%;}
+ul {list-style: none;}
+a {text-decoration: none;}
+body {background-color: black;}
+
+/*CABEÇALHO*/
+.cab {
+    width: 100%;
+    height: 70%; 
+    float: left; 
+    padding: 3% 4%; 
+    background-color: #337558;
+}
+.cab h1{
+    font-weight: bold;
+    border-bottom: 1px solid #337558;
+    float: center;
+    font-size: 55px;
+}
+/* CONTEÚDO */
+.principais {
+    width: 100%; 
+    float: left; 
+    padding: 3% 4%;
+}
+.principal {
+    width: 100%;
+    background-color: white;
+    text-align: justify;
+    border-radius: 7px;
+    margin-bottom: 3%;
+    font-size: 100%;
+}
+.inner {
+    padding: 7%;
+}
+
+.inner img {
+    width: 20%;
+}
+
+.inner a {
+    font-size: 1.5em;
+    color: black;
+} 
+/* RODAPÉ */
+.rodape {
+    width: 100%;
+    float: left;
+    padding: 1% 2%;
+    background-color: #337558;
+    height: 80%;
+}
+.rodape a {
+    float: right;
+    color: black;
+}
+.rodape p {
+    color: black;
+    float: right;
+}
+.rodape h2 {
+    padding: 1% 2%;
+}
+.rodape h3 {
+    padding: 1% 2%;
+    line-height: 2em;
+}
