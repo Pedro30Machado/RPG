@@ -37,6 +37,10 @@ body {background-color: black;}
     padding: 7%;
 }
 
+.table {
+    width: 175%
+}
+
 .inner img {
     width: 30%;
 }
