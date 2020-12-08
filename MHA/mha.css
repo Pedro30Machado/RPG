@@ -11,11 +11,11 @@ body {background-color: black;}
     height: 70%; 
     float: left; 
     padding: 3% 4%; 
-    background-color: #337558;
+    background-color: #00BFFF;
 }
 .cab h1{
     font-weight: bold;
-    border-bottom: 1px solid #337558;
+    border-bottom: 1px solid #00BFFF;
     float: center;
     font-size: 55px;
 }
@@ -54,7 +54,7 @@ body {background-color: black;}
     width: 100%;
     float: left;
     padding: 1% 2%;
-    background-color: #337558;
+    background-color: #00BFFF;
     height: 80%;
 }
 .rodape a {
